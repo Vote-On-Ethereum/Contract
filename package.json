@@ -1,0 +1,19 @@
+{
+  "name": "vote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Incrementer.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "truffle-contract": "^1.1.8",
+    "zeppelin-solidity": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
