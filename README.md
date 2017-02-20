@@ -1,0 +1,2 @@
+# Contract
+The voting contract
