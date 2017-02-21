@@ -1,6 +1,6 @@
 pragma solidity ^0.4.4;
 
-import "./zeppelin/Killable.sol";
+import "../node_modules/zeppelin-solidity/contracts/Killable.sol";
 
 contract Poll is Killable {
 
