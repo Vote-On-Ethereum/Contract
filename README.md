@@ -10,7 +10,6 @@ The voting contract source code in [Solidity](http://solidity.readthedocs.io/en/
 ## Install
 
 ```
-git 
 npm install -g truffle
 npm install -g ethereumjs-testrpc
 npm install
